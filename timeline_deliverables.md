@@ -1,9 +1,9 @@
-# GSoD 2020 Timeline & Deliverables
+# GSoD 2021 Timeline & Deliverables
 
 | SYMBOLS | MEANINGS |
 |:-------:|:--------:|
 | :heavy_check_mark: | Completed |
-| :construction: | Under Progress |
+| :construction: | In Progress |
 | :warning: | Needs review |
 | :red_circle: | Not Yet Started |
 
