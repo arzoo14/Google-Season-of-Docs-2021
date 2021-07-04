@@ -12,32 +12,32 @@
 | **DELIVERABLES**               | **STATUS**            |  **PR**  | **FEEDBACK**|
 |:---------------------------------|:---------------------:|:------------:|:-----------------:|
 |   **_WEEK 1 (May 31 - June 6)_** |    |     |        |
-| Enable Google Analytics on readthedocs pages| | | |
-| Add 'How To' Guides section in readthedocs landing page | | | |
-| Make separate .rst files for each 'How To' tasks | | | |
-| Adding separate .rst files for each 'Short Guides' | | | |
+| Enable Google Analytics on readthedocs pages| :heavy_check_mark: | | |
+| Add 'How To' Guides section in readthedocs landing page | :warning: | | |
+| Make separate .rst files for each 'How To' tasks |:warning: | | | 
+| Adding separate .rst files for each 'Short Guides' | :warning:| | |
 |   **_WEEK 2 (June 7 - June 13)_** |    |     |        |
-| Start with the 'How To' Guides | | | |
-| How do I list the available performance metrics | | | |
-| How do I add new metrics to the available set | | | |
-| How do I record metrics on my local system | | | |
+| Start with the 'How To' Guides |:warning: | | |
+| How do I list the available performance metrics | :warning:| | |
+| How do I add new metrics to the available set |:warning: | | |
+| How do I record metrics on my local system |:warning: | | |
 |   **_WEEK 3 (June 14 - June 20)_** |    |     |        |
-| Continue with the 'How To' Guides | | | |
-| How do I record metrics from a remote system | | | |
-| How do I automate performance problem detection | | | |
-| How do I setup automated rules to write to the system log | | | |
+| Continue with the 'How To' Guides |:warning: | | |
+| How do I record metrics from a remote system |:warning: | | |
+| How do I automate performance problem detection |:warning: | | |
+| How do I setup automated rules to write to the system log |:warning: | | |
 |   **_WEEK 4 (June 21 - June 27)_** |    |     |        |
 | Continue with the 'How To' Guides | | | |
-| How do I record historical data for use with pcp-dstat(1)s | | | |
-| How do I create a simple graph of a performance metrics | | | |
-| How do I export metric values in a comma-separated formats | | | |
+| How do I record historical data for use with pcp-dstat(1)s |:construction: | | |
+| How do I create a simple graph of a performance metrics | :construction:| | |
+| How do I export metric values in a comma-separated formats | :construction:| | |
 |   **_WEEK 5 (June 28 - July 4)_** |    |     |        |
 | Blogging of the last four weeks	 | | | |
 | Audit existing documentation for tutorial content | | | |
 |   **_WEEK 6 (July 5 - July 11)_** |    |     |        |
 | Start refactoring of Short Guides into 'How do I..." form | | | |
-| How do I use charts | | | |
-| How do I manage archive log | | | |
+| How do I use charts |:warning: | | |
+| How do I manage archive log |:warning: | | |
 |   **_WEEK 7 (July 12 - July 18)_** |    |     |        |
 | Continue refactoring of Short Guides into 'How do I..." form | | | |
 | How do I automate reasoning with pmie | | | |
