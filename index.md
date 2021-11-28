@@ -27,7 +27,7 @@ The suite begun production use over 20 years ago primarily in the High Performan
 
 The project aims to curate a new series of focussed, task-oriented "How To" guides that will assist new users in engaging immediately, by clearly showing how to solve specific problem scenarios that users encounter frequently. The goals of the project are to assist first-time users to become more productive right away, while also increasing traffic to the more detailed books in the same location (readthedocs.io).
 
-### GSoD 2020
+### GSoD 2021
 
 As a part of GSoD 2021, the project had following deliverables:
  
@@ -78,9 +78,10 @@ In this phase, I gave a list for additional topics beyond the set above to produ
 3. [Project](https://pcp.io/gsod/2021/ideas.html)
 4. [Proposal](https://pcp.io/gsod/2021/proposal.html)
 5. Github Repositories - [PCP](https://github.com/performancecopilot/pcp)
-6. Merged PRs - [#1469](https://github.com/performancecopilot/pcp/pull/1469), [#1473](https://github.com/performancecopilot/pcp/pull/1473), [#1474](https://github.com/performancecopilot/pcp/pull/1474), [#1484](https://github.com/performancecopilot/pcp/pull/1484)
-7. Final Work Product - [PCP](https://pcp.readthedocs.io/en/latest/)
-8. [Blogs](https://arzoo14.github.io/blogs/)
+6. Merged PRs - [#1469](https://github.com/performancecopilot/pcp/pull/1469), [#1473](https://github.com/performancecopilot/pcp/pull/1473), [#1474](https://github.com/performancecopilot/pcp/pull/1474), [#1484](https://github.com/performancecopilot/pcp/pull/1484), [#26](https://github.com/performancecopilot/pcp-website/pull/26)
+7. [Timeline & Deliverables](https://github.com/arzoo14/Google-Season-of-Docs-2021/blob/main/timeline_deliverables.md)  
+8. Final Work Product - [PCP](https://pcp.readthedocs.io/en/latest/)
+9. [Blogs](https://arzoo14.github.io/gsod-2021/)
 
 ### EndNote
 
@@ -88,6 +89,6 @@ With this, the Google Season of Docs has come to an end. This journey has been v
 
 ### Acknowledgements
 
-I would like to express my sincere gratitude to my mentors - Nathan Scott, Christian Horn and Apurva Bh foider their constant support and guidance. They were always around and had solutions to any issue that I faced. I have learnt a lot from them and expect to learn a lot more in the future.
+I would like to express my sincere gratitude to my mentors - Nathan Scott, Christian Horn and Apurva Bhide for their constant support and guidance. They were always around and had solutions to any issue that I faced. I have learnt a lot from them and expect to learn a lot more in the future.
 
  I am grateful to Google and Performance Co-Pilot organization for giving me this golden opportunity again this year. 
