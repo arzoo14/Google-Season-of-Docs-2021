@@ -25,14 +25,14 @@
 | Continue with the 'How To' Guides |:heavy_check_mark: | | |
 | How do I record metrics from a remote system |:heavy_check_mark: | [#1473](https://github.com/performancecopilot/pcp/pull/1473) | [Link](https://pcp.readthedocs.io/en/latest/QG/RecordMetricsFromRemoteSystem.html)|
 | How do I create a simple graph of a performance metrics | :heavy_check_mark:| " | [Link](https://pcp.readthedocs.io/en/latest/QG/GraphPerformanceMetric.html) |
-| How do I automate performance problem detection |:warning: | [#1474](https://github.com/performancecopilot/pcp/pull/1474) | [Link](https://pcp.readthedocs.io/en/latest/QG/AutomateProblemDetection.html) |
+| How do I automate performance problem detection |:heavy_check_mark: | [#1474](https://github.com/performancecopilot/pcp/pull/1474) | [Link](https://pcp.readthedocs.io/en/latest/QG/AutomateProblemDetection.html) |
 |   **_WEEK 4 (June 21 - June 27)_** |    |     |        |
 | Continue with the 'How To' Guides | :heavy_check_mark: | | |
 | How do I setup automated rules to write to the system log |:heavy_check_mark: | [#1473](https://github.com/performancecopilot/pcp/pull/1473) | [Link](https://pcp.readthedocs.io/en/latest/QG/SetupAutomatedRules.html) |
 | How do I record historical data for use with pcp-dstat(1) tool |:heavy_check_mark: | " | [Link](https://pcp.readthedocs.io/en/latest/QG/RecordHistoricalValues.html) |
 | How do I export metric values in a comma-separated formats | :heavy_check_mark:| " | [Link](https://pcp.readthedocs.io/en/latest/QG/ExportMetricValues.html) |
 |   **_WEEK 5 (June 28 - July 4)_** |    |     |        |
-| Blogging of the last four weeks	 | | | |
+| Blogging of the last four weeks	 | :heavy_check_mark: | | |
 | Audit existing documentation for tutorial content | :heavy_check_mark: | | |
 |   **_WEEK 6 (July 5 - July 11)_** |    |     |        |
 | Start refactoring of Short Guides into 'How do I..." form | :heavy_check_mark: | | |
@@ -47,7 +47,7 @@
 | How do I analyze Linux containers | :heavy_check_mark:| [#1469](https://github.com/performancecopilot/pcp/pull/1469) | [Link](https://pcp.readthedocs.io/en/latest/QG/AnalyzeLinuxContainers.html) |
 | How do I establish secure connections | :heavy_check_mark:| " | [Link](https://pcp.readthedocs.io/en/latest/QG/SecureConnections.html) |
 |   **_WEEK 9 (July 26 - August 1)_** |    |     |        |
-| Blogging of the last four weeks	 | | | |
+| Blogging of the last four weeks	 | :heavy_check_mark: | | |
 | Continue refactoring of Short Guides into 'How do I..." form | :heavy_check_mark: | | |
 | How do I establish secure client connections | :heavy_check_mark: | [#1469](https://github.com/performancecopilot/pcp/pull/1469) | [Link](https://pcp.readthedocs.io/en/latest/QG/SecureClientConnections.html) |
 | How do I setup authenticated connections | :heavy_check_mark: | " | [Link](https://pcp.readthedocs.io/en/latest/QG/AuthenticatedConnections.html) |
@@ -56,18 +56,18 @@
 | How do I import data and create PCP archives |:heavy_check_mark: | [#1469](https://github.com/performancecopilot/pcp/pull/1469) | [Link](https://pcp.readthedocs.io/en/latest/QG/ImportData.html) |
 | How do I visualize performance with pmview |:heavy_check_mark: | " | [Link](https://pcp.readthedocs.io/en/latest/QG/Use3DViews.html)|
 |   **_WEEK 11 (August 9 - August 15)_** |    |     |        |
-| Provide feedback to developers about potential areas of improvements | | | |
+| Provide feedback to developers about potential areas of improvements | :heavy_check_mark: | | |
 |   **_WEEK 12 (August 16 - August 22)_** |    |     |        |
 | Introduce consistency into all Tutorials and Guides across the project | :heavy_check_mark: | | |
-| Work on feedbacks from mentors, developers and end-users | :heavy_check_mark: | | |
+| Work on feedbacks from mentors, developers and end-users | :heavy_check_mark: | [#26](https://github.com/performancecopilot/pcp-website/pull/26) | |
 | Checking (changing) of the codebase as per coding standards	|:heavy_check_mark: | | |
-| Work on Bugs/Issues (if any) | :heavy_check_mark:| | |
-| Blogging of the last four weeks	 | | | |
+| Work on Bugs/Issues (if any) | :heavy_check_mark:| [#1484](https://github.com/performancecopilot/pcp/pull/1484) | |
+| Blogging of the last four weeks	 | :heavy_check_mark: | | |
 |   **_WEEK 13 (August 23 - August 31)_** |    |     |        |
-| Canvas the community for additional topics | | | |
-| Complete the leftovers (in any) | | | |
-| Work with the organization to provide information needed for the final evaluation and case study | | | |
-| Blogging of The Last Week| | | |
+| Canvas the community for additional topics | :heavy_check_mark: | | |
+| Complete the leftovers (in any) | :heavy_check_mark:| | |
+| Work with the organization to provide information needed for the final evaluation and case study | :heavy_check_mark: | | [Link](https://arzoo14.github.io/Google-Season-of-Docs-2021/)|
+| Blogging of The Last Week| :heavy_check_mark: | | [Link](https://arzoo14.github.io/gsod-2021/) |
 
 
 
