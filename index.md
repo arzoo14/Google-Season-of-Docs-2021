@@ -70,6 +70,16 @@ During this phase, I started with auditing existing documentation for the Short 
 #### Deliverable 4
 
 In this phase, I gave a list for additional topics beyond the set above to produce an initial set of high-value guides and also, provided feedback to developers about potential areas of improvements in the tools to create more satisfying early user experiences.
+
+#### Google Analytics Insights
+
+For the month of November (since the publishing of the documentation), we saw -
+
+* 46% views (out of 1040) of the new Quick Guides documentation
+* 27% users (out of 244) have opened the Quick Guides documentation
+* 6% (out of 223) are the new users.
+* Views per user (1.70) is highest for the new Quick Guides comparatively to the other Guides.
+
   
 ### Additional Information and Resources
 
@@ -91,4 +101,4 @@ With this, the Google Season of Docs has come to an end. This journey has been v
 
 I would like to express my sincere gratitude to my mentors - Nathan Scott, Christian Horn and Apurva Bhide for their constant support and guidance. They were always around and had solutions to any issue that I faced. I have learnt a lot from them and expect to learn a lot more in the future.
 
- I am grateful to Google and Performance Co-Pilot organization for giving me this golden opportunity again this year. 
+I am grateful to Google and Performance Co-Pilot organization for giving me this golden opportunity again this year. 
